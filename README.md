@@ -30,7 +30,7 @@ Text Input → Language Detection → Sentence Splitting → Emotion Analysis �
 ### 1. Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/SYT20/EmotionalTextToSpeech/blob/main/README.md
 cd empathy-engine
 ```
 
@@ -215,6 +215,7 @@ Voice parameters are scaled based on emotion intensity (0-1):
 ## Contributing
 
 [Add contribution guidelines here]
+
 
 
 
