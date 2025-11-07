@@ -75,7 +75,6 @@ ELEVENLABS_API_KEY=AIzaSyDqLOHeSWSe6lvJwumgI6fWHwYwryk5wUY
 
 ### 6. Get API Keys
 
-- **Hugging Face**: Sign up at [huggingface.co](https://huggingface.co) and create an API token
 - **Google Gemini**: Get your API key from [Google AI Studio](https://makersuite.google.com/app/apikey)
 - **Murf.ai**: Register at [murf.ai](https://murf.ai) and obtain your API key
 
@@ -189,14 +188,6 @@ Voice parameters are scaled based on emotion intensity (0-1):
 - Gemini API calls add ~2-3 seconds per emotion analysis
 - Audio generation time depends on text length and Murf.ai processing
 
-## Future Enhancements
-
-- Support for multiple languages
-- Emotion-specific voice selection
-- Real-time streaming TTS
-- Custom voice training integration
-- Advanced audio effects (reverb, EQ)
-
 ## Dependencies
 
 - `transformers`: Hugging Face models
@@ -208,13 +199,8 @@ Voice parameters are scaled based on emotion intensity (0-1):
 - `python-dotenv`: Environment management
 - `google-generativeai`: Gemini AI integration
 
-## License
 
-[Add your license information here]
 
-## Contributing
-
-[Add contribution guidelines here]
 
 
 
