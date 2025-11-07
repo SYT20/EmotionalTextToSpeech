@@ -27,6 +27,12 @@ Text Input → Language Detection → Sentence Splitting → Emotion Analysis �
 
 ## Setup Instructions
 
+### USE THE FOLLOWING in the .env file
+'''bash
+ELEVENLABS_API_KEY=ap2_8e5a5719-dabf-4f91-8e67-8a5eb205a3bb
+GOOGLE_API_KEY="AIzaSyDqLOHeSWSe6lvJwumgI6fWHwYwryk5wUY"
+'''
+
 ### 1. Clone the Repository
 
 ```bash
@@ -216,3 +222,4 @@ Voice parameters are scaled based on emotion intensity (0-1):
 ## Contributing
 
 [Add contribution guidelines here]
+
